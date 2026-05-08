@@ -1,5 +1,5 @@
 # Smart Wind Turbine Failure Detection System
-**Graduation Thesis Project (Bitirme) | Dokuz Eylül University**
+**Graduation Thesis Project | Dokuz Eylül University**
 
 ## 📌 Project Overview
 This project focuses on real-time failure diagnosis for wind turbines using an end-to-end Machine Learning pipeline integrated with IoT infrastructure. The system aims to minimize maintenance costs and downtime by predicting potential faults before they occur.
