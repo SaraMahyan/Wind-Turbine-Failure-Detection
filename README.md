@@ -28,3 +28,5 @@ This project focuses on real-time failure diagnosis for wind turbines using an e
 
 ## 📬 Contact
 **Sara Mahyanbakhshayesh** - [saramahyan.smb@gmail.com](mailto:saramahyan.smb@gmail.com)
+**İlhan Gamze Saygı** - [ilhangamzesaygi@gmail.com](mailto:ilhangamzesaygi@gmail.com)
+**Berdan Ak** - [berdanak178@gmail.com](mailto:berdanak178@gmail.com)
